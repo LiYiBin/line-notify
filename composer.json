@@ -1,0 +1,13 @@
+{
+    "name": "liyibin/line-notify",
+    "description": "Line notify for php or Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LYB",
+            "email": "liyibin.tw@gmail.com"
+        }
+    ],
+    "require": {}
+}
