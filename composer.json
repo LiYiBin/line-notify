@@ -9,5 +9,10 @@
             "email": "liyibin.tw@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "LiYiBin\\LineNotify\\": "src/"
+        }
+    }
 }
