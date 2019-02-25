@@ -2,9 +2,9 @@
 
 namespace LiYiBin\LineNotify;
 
-use Illuminate\Support\ServieProvider;
+use Illuminate\Support\ServiceProvider;
 
-class LineNotifyFactoryServiceProvider extends ServieProvider
+class LineNotifyServiceProvider extends ServiceProvider
 {
     public function boot()
     {
